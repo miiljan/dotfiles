@@ -1,3 +1,3 @@
-<h3> dotfiles</h3>
+<h2> <b>Dotfiles</b></h2>
 <p> These are my current dotfiles for my <b> Ubuntu + Hyprland</b> setup </p>
 <p>They're mostly based on the <a href="https://github.com/JaKooLit/Hyprland-Dots">JaKooLit Dots</a></p>
